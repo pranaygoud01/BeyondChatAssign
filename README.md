@@ -21,7 +21,7 @@ You can try the live demo of the project [here](https://beyond-chat-assign.verce
 Here are some screenshots of the project:
 
 1. **User Registration Page:**
-   ![User Registration](https://your-screenshot-url.com/registration.png)
+   ![User Registration](https://i.ibb.co/j9YTmbFS/Screenshot-2025-02-01-190720.png)
 
 2. **Company Setup Page:**
    ![Company Setup](https://your-screenshot-url.com/company-setup.png)
