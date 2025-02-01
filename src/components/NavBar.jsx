@@ -30,7 +30,7 @@ const NavBar = () => {
         
         
         <div className="max-lg:hidden">
-          <Btns name="Logout" path="/login" />
+          <Btns name="Home" path="/home" />
         </div>
 
         <button className="lg:hidden text-3xl z-50" onClick={handleClick}>
