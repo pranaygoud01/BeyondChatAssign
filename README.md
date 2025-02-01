@@ -1,4 +1,4 @@
-# BeyondChats - Chatbot Setup UI
+# BeyondChats 
 
 **Project Overview:**
 
@@ -12,7 +12,7 @@ BeyondChats is a chatbot company offering businesses an easy way to set up and i
 
 ## Live Demo
 
-You can try the live demo of the project [here](https://your-live-demo-url.com).
+You can try the live demo of the project [here](https://beyond-chat-assign.vercel.app/).
 
 ---
 
