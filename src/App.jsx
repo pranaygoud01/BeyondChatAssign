@@ -10,6 +10,7 @@ import { CompanyProvider } from './store/CompanyData.jsx';
 import VerificationPage from './pages/VerificationPage.jsx';
 import ChatBotInt from './pages/ChatBotInt.jsx';
 import TestIntegration from './pages/TestIntegration.jsx';
+import HomePage from './pages/HomePage.jsx';
 
 
 
@@ -21,6 +22,7 @@ const App = () => {
         <Routes>
           <Route path="/login" element={<Login />} />
           <Route path="/" element={<Register />} />
+          <Route path="/home" element={<HomePage />} />
           <Route path="/setup" element={<SetUp />} />
           <Route path="/company/:name" element={<CompanyCard />} />
           <Route path="/progress" element={<ProgressPage/>}/>

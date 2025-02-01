@@ -13,3 +13,6 @@
 .remove-arrow {
     -moz-appearance: textfield;
 }
+html, body {
+  overflow-x: hidden;
+}

@@ -27,7 +27,7 @@ const ProgressPage = () => {
         <p className="text-center  max-lg:text-sm text-md text-gray-600">Please wait while we process your request.</p>
         </div>
         
-        <div className="h-[10px] w-full rounded-md bg-neutral-200">
+        <div className="h-[10px] w-full rounded-full bg-neutral-200">
           <div className="h-full rounded-md bg-blue-500 transition-all" style={{ width: `${status}%` }}></div>
         </div>
            <Btns name="Skip to nextpage" path="/chatbot-integration" click={submitForm}/>

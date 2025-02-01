@@ -38,7 +38,7 @@ const Login = () => {
             <h1 className='font-semibold text-3xl max-lg:text-2xl max-lg:hidden'>Login</h1>
             <InputBtn type="text" placeholder="Enter Email" />
             <InputBtn type="password" placeholder="Enter Password" />
-            <Btns name="Login" path="/setup" />
+            <Btns name="Login" path="/home" />
           </div>
           <div className='flex flex-col gap-5'>
             <h1 className='text-center text-neutral-600'>or continue with the</h1>
