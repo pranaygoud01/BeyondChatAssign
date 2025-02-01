@@ -23,7 +23,7 @@ const CompanyList = () => {
           </div>
           <div className="flex gap-3">
             <div
-              className={`flex items-center gap-2 text-xs font-semibold py-2 px-4 border-2 rounded-md shadow-md transition-transform transform hover:scale-105 ${
+              className={`flex items-center gap-2 text-xs font-semibold py-2 px-4 border-2 rounded-md shadow-md ${
                 company.status === "Scraped"
                   ? "bg-green-200 border-green-400 text-green-800"
                   : "bg-red-200 border-red-400 text-red-800"
