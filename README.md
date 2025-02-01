@@ -23,8 +23,8 @@ Here are some screenshots of the project:
 1. **User Registration Page:**
    ![User Registration](https://i.ibb.co/j9YTmbFS/Screenshot-2025-02-01-190720.png)
 
-2. **Company Setup Page:**
-   ![Company Setup](https://your-screenshot-url.com/company-setup.png)
+2. **Home Page:**
+   ![Company Setup](https://media-hosting.imagekit.io//c489dc2919a647fe/Screenshot%202025-02-01%20190751.png?Expires=1833025390&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wPNk8Mq3oKjmC2JILw-sEtUGL8PrRFqAFGggFlzU7Jytb3nfBbl4kjU6vBLrgfJPZ9k-IxzW2A9MQLV1YKpQlqLLGhDWny1zParx0RadUZWzijrmYF9tki0srB4ooQN5hHoiL2KMdrOsI9295m1GxS0fJbS929tY0KLcojMjRWb0RZYDigo4HDN3VAiYhq~8WJEtfMfaSK~qr6b2EgeASyQ7nNplRipn7BiN9PxLQizeVcLqzTefceVvrm5xuAEo41nQiZ~gUlV8zWisbveU6eiBKlhCeKr-19vXXVixXVPGOCI-1KGOm~UU6NuEWFRzfEfWCHCOD3UAxlK2aQkfkA__)
 
 3. **Chatbot Testing & Integration Page:**
    ![Chatbot Integration](https://your-screenshot-url.com/chatbot-integration.png)
