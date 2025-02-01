@@ -18,7 +18,7 @@ const Register = () => {
     >
       <div className='grid grid-cols-2 max-lg:grid-cols-1 gap-10'>
         <motion.div
-          className='flex justify-center gap-9 max-lg:gap-10 px-36 flex-col h-[100vh] max-lg:h-fit max-lg:py-6 max-lg:pb-1 max-lg:px-8 max-lg:pt-28'
+          className='flex justify-center gap-9 max-lg:gap-6 px-36 flex-col h-[100vh] max-lg:h-fit max-lg:py-6 max-lg:pb-1 max-lg:px-8 max-lg:pt-28'
           initial="hidden"
           animate="visible"
           variants={animationVariants}
@@ -28,6 +28,7 @@ const Register = () => {
             <p className='text-4xl max-lg:text-xl max-lg:font-semibold font-bold'>Explore BeyondChats</p>
           </div>
           <div className='font-medium text-base max-lg:text-sm text-neutral-800'>
+          <p>Please click on the submit buttons to proceed to the next page.<span className='font-bold'>Note: The backend is not connected.</span> </p>
             <h1>If you have already an account register</h1>
             <h1>you can <Link to="/login" className='text-blue-500 font-semibold cursor-pointer'>Login here!</Link></h1>
           </div>
